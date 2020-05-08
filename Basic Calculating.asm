@@ -1,4 +1,5 @@
 .data
+
 name:	.space	20	
 
 #3 variables to hold input

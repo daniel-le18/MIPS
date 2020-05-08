@@ -14,7 +14,6 @@ newline:.asciiz"\n"
 messE:	.asciiz"Invalid"
 average:.word 0
 
-
 .text
 #Open for writing
 li 	$v0,13 		#syscall for open file
